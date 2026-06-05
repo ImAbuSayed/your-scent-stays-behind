@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Scent Stays Behind
+
+This log tracks the cryptographic history and versioning for the song **Your Scent Stays Behind** (your-scent-stays-behind).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-05T22:24:22.623430 | `v1` | `30acf9831f208f5e6cae5ba1a5e6a8b48ff6289abee23e8c1b8ea2f4b44cb9b2` | `5636f20bd46a279bb66d5eff449a19db3315710a2353a271856d0be0c8245dcd` | `2026-06-05_your-scent-stays-behind-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
