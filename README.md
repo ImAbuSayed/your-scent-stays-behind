@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-scent-stays-behind/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Your Scent Stays Behind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-stays-behind/) |
+| **Get License** | [Official Music Licensing for Your Scent Stays Behind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-stays-behind/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The moon is heavy on the hood tonight
+> I catch the ghost of you right by my side
+> A sudden whisper in the fading light
+> Your scent stays behind, keeping me awake tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
