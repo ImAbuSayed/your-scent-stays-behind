@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-scent-stays-behind/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Your Scent Stays Behind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-stays-behind/) |
+| **Get License** | [Secure Licensing Rights for Your Scent Stays Behind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-stays-behind/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2742)
 
 ---
 
